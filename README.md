@@ -35,7 +35,7 @@ I am currently pursuing my **B.Tech in Computer Science and Engineering** at **C
 
 
 <p align="left">
-<a href="https://github.com/parthivx1" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45" /></a><a href="https://linkedin.com/in/parthivbp" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a><a href="mailto:parthivxx1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+<a href="https://github.com/parthivx1" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45" /></a><a href="https://linkedin.com/in/parthivbp" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
 </p>
 
 
