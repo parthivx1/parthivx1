@@ -26,7 +26,7 @@ I am currently pursuing my **B.Tech in Computer Science and Engineering** at **C
 ## 💻 Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,java,html,css,js,nodejs,express,mongodb,mysql,bootstrap,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,java,html,css,js,nodejs,express,mongodb,mysql,vscode&theme=dark" />
 </p>
 
 ---
