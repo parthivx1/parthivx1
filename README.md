@@ -1,6 +1,7 @@
-                                                           # Hi 👋, I'm Parthiv
+<h1 align="center">Hi 👋, I'm Parthiv</h1>
 
-### Aspiring MERN Stack Developer | B.Tech CSE Student
+<h3 align="center">Aspiring MERN Stack Developer | B.Tech CSE Student</h3>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=parthivx1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
